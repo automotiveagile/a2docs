@@ -1,0 +1,5 @@
+(C) Automotive Agile Documentation
+
+We acknowledge that this document uses material from the
+arc 42 architecture template, http://www.arc42.de.
+Created by Dr. Peter Hruschka & Dr. Gernot Starke.

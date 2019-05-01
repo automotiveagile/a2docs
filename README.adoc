@@ -1,0 +1,11 @@
+= Automotive Agile Documentation
+
+== Build the documentation
+
+The format used for a2docs is Asciidoc and is converted to several formats using Asciidoctor. What is Asciidoctor: https://asciidoctor.org/docs/user-manual/#what-is-asciidoctor
+
+This tool is available as a Docker container: https://hub.docker.com/r/asciidoctor/docker-asciidoctor/
+
+So first of all install Docker and then run following command to build the examples folder:
+
+ ./build_example.sh
